@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cryptoearnpro.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
+cryptoearnpro.com	TRUE	/	FALSE	1999999999	PHPSESSID	2vqubn9uid0jgsh75iui9rjua5
+
