@@ -874,7 +874,7 @@ p {
     padding-bottom: 11px;
     padding: 11px 38px;
     border-radius: 100px;
-    color: #fff;
+    color: #454444;
     font-size: 12px;
 }
 #login-btn a:hover {
@@ -2439,7 +2439,6 @@ button.close {
 */
 .signup-area {
 background:#ac791b;
-color: #FFF;
 }
 .signup {
 	
