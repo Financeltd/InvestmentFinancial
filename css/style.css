@@ -330,8 +330,8 @@ p {
     width: 50px;
     height: 50px;
     
-    border: 1px solid #ac791b;
-    border-top: 3px solid #ed3232;
+    border: 1px solid #ca6735;
+    border-top: 3px solid #656464;
     border-radius: 100%;
     
     position: absolute;
@@ -355,7 +355,7 @@ p {
 #overlay{
 	height:100%;
 	width:100%;
-	background:#ac791b;
+	background:#f5f4f3;
 	position:fixed;
 	left:0;
 	top:0;
@@ -950,7 +950,7 @@ p {
 */
 
 .swiper-slider-area {
-	
+	background: #ac791b;
 }
 
 .swiper-container {
@@ -996,7 +996,7 @@ p {
 ===============================
 
 */
-.how-it-works {
+.how-it-works-area {
 	background: #ac791b;
 }
 .single-hw-wk {
@@ -1098,6 +1098,9 @@ p {
 ===============================
 
 */
+.why-Choose-area {
+	background: #2f2f2d;
+}
 .single-why-choose {
 	text-align: center;
     position: relative;
@@ -1594,6 +1597,9 @@ p {
 ===============================
 
 */
+.how-area{
+	background: #2f2f2d;
+}
 
 .how-to-sec {
     float: left;
@@ -1690,6 +1696,7 @@ p {
 .chart-map {
 	margin:0 20px;
 	margin-top:20px;
+	background: #2f2f2d;
 }
 
 
@@ -1876,6 +1883,7 @@ p {
 */
 .about-page1 {
 	background: #ac791b;
+	color: #FFF;
 }
 .single-about-contents {
 	margin-right:25px;
@@ -2112,7 +2120,7 @@ p {
 ===============================
 */
 .services-elements {
-	
+	background: #2f2f2d;
 }
 .single-service-elements {
 	border:1px solid #ccc;
@@ -2169,6 +2177,7 @@ p {
 */
 .faqs-area {
 	background:#ac791b;
+	color: #FFF;
 }
 .faq-contents {
 	display:block;
@@ -2255,6 +2264,7 @@ p {
 */
 .contact-form-area {
 	background:#ac791b;
+	color: #FFF;
 }
 .contact-form input, .contact-form textarea {
 	width:100%;
@@ -2349,7 +2359,7 @@ button.close {
 .single-priceing {
 	text-align:center;
 	padding:40px 20px;
-	border:2px solid #2f2f2d;
+	border:2px solid #eeeeeb;
 	position:relative;
 	margin-bottom:30px;
 	border-radius: 4px;
@@ -2429,6 +2439,7 @@ button.close {
 */
 .signup-area {
 background:#ac791b;
+color: #FFF;
 }
 .signup {
 	
@@ -2444,7 +2455,7 @@ background:#ac791b;
 	border-radius:3px;
 }
 .signup input:focus {
-	border:1px solid #2f2f2d;
+	border:1px solid #373735;
 }
 .signup input[type="checkbox"] {
 	width: 14px;
@@ -2459,7 +2470,7 @@ background:#ac791b;
 	font-weight:400;
 }
 .signup label a {
-	color:#2f2f2d;
+	color:#393938;
 }
 .signup label a:hover {
 	color:#ed7227;
@@ -2480,13 +2491,13 @@ background:#ac791b;
 	text-align:center;
 }
 .signup p a {
-	color:#2f2f2d;
+	color:#3b3b3a;
 	display:inline-block;
 	margin-top:10px;
 	font-weight:500;
 }
 .signup p a:hover {
-	border-bottom: 1px solid #2f2f2d;
+	border-bottom: 1px solid #373735;
 }
 
 
